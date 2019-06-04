@@ -51,15 +51,27 @@ test-output/reports
 	HTML - TestNG - XML reports - Extent reports
 	
 Java
+
 Selenium WenDriver
+
 TestNG
+
 Maven
+
 Apache POI API
+
 Extent Report/TestNG report
+
 Log4j API
+
 Jenkins - CI
+
 GIT - Repo
+
 GRID - Parallel Testing
+
 Browsers - FF/Chrome/IE
+
 Mac/Windows/Linux
+
 VMs/SourceLabs/BrowseStack/Local
